@@ -1,0 +1,7 @@
+module.exports = [
+  "Red Ruby Group",
+  "RRG",
+  "0x1fd109DA965D9c87598F3674A7006d694262dcF1",
+  "0xd99d1c33f9fc3444f8101754abc46c52416550d1",
+  "0x1fd109DA965D9c87598F3674A7006d694262dcF1",
+];
